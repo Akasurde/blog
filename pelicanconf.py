@@ -21,6 +21,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+HOMEURL = "https://akasurde.github.io"
+
 SOCIAL = (('github', "https://github.com/akasurde"),
           ('twitter', 'https://twitter.com/Pyro46'),
           ('linkedin', 'https://www.linkedin.com/in/abhijeet-kasurde-baab8519'),
@@ -28,8 +30,7 @@ SOCIAL = (('github', "https://github.com/akasurde"),
          )
 
 # Social widget
-LINKS = (('Home', 'http://akasurde.github.io'),
-         ('Open Source For You', 'http://opensourceforu.com/author/abhijeet-kasurde/'),
+LINKS = (('Open Source For You', 'http://opensourceforu.com/author/abhijeet-kasurde/'),
         )
 
 
