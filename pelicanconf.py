@@ -24,7 +24,7 @@ AUTHOR_FEED_RSS = None
 SOCIAL = (('github', "https://github.com/akasurde"),
           ('twitter', 'https://twitter.com/Pyro46'),
           ('linkedin', 'https://www.linkedin.com/in/abhijeet-kasurde-baab8519'),
-          ('stackoverflow', 'http://stackoverflow.com/users/1075324/abhijeet-kasurde'),
+          ('stack-overflow', 'http://stackoverflow.com/users/1075324/abhijeet-kasurde'),
          )
 
 # Social widget
