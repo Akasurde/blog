@@ -8,4 +8,4 @@ Hello, My name is [Abhijeet Kasurde](http://akasurde.github.io) and I live in Pu
 
 ### What I do
 
-I work at [Red Hat](https://www.redhat.com/) building the most awesome open source project using [Python](https://www.python.org).
+I work at [Red Hat](https://www.redhat.com/), building the most awesome open source project using [Python](https://www.python.org).
