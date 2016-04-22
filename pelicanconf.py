@@ -40,3 +40,4 @@ CC_LICENSE = {
     'slug': 'by-sa'
 }
 
+GOOGLE_ANALYTICS='UA-76778737-1'
