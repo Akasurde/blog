@@ -30,8 +30,8 @@ SOCIAL = (('github', "https://github.com/akasurde"),
          )
 
 # Social widget
-LINKS = (('Open Source For You', 'http://opensourceforu.com/author/abhijeet-kasurde/'),
-        )
+#LINKS = (('Open Source For You', 'http://opensourceforu.com/author/abhijeet-kasurde/'),
+#        )
 
 
 CC_LICENSE = {
