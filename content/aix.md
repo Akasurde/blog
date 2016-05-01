@@ -1,11 +1,11 @@
-Title: AIX Command line hacks
-Date: 2016-01-23 12:03
-Modified: 2016-01-23 12:03
-Category: command-line
-Tags: AIX
-Slug: aix-commandline
+Title: AIX
+Date: 2016-01-01 12:03
+Modified: 2016-01-01 12:03
+Category: aix
+Tags: aix, command-line
+Slug: aix-command-line
 Authors: Abhijeet Kasurde
-Summary: Few handy AIX Command line hacks
+Summary: Quick and handy command line reference for AIX command line
 
 * Reset the NIM client machine state from NIM server
 
@@ -50,3 +50,5 @@ Summary: Few handy AIX Command line hacks
 * Get statistics for Fibre Card adapter
 
 	<pre># fcstat adapter_name</pre>
+
+
