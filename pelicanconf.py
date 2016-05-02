@@ -28,6 +28,9 @@ SOCIAL = (('github', "https://github.com/akasurde"),
           ('linkedin', 'https://www.linkedin.com/in/abhijeet-kasurde-baab8519'),
           ('stack-overflow', 'http://stackoverflow.com/users/1075324/abhijeet-kasurde'),
          )
+MENUITEMS = (('Archives', '/archives.html'),
+             ('Categories', '/categories.html'),
+             ('Tags', '/tags.html'),)
 
 # Social widget
 #LINKS = (('Open Source For You', 'http://opensourceforu.com/author/abhijeet-kasurde/'),
@@ -41,3 +44,4 @@ CC_LICENSE = {
 }
 
 GOOGLE_ANALYTICS='UA-76778737-1'
+DISQUS_SITENAME = "akasurdegithubio"
