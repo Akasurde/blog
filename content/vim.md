@@ -51,3 +51,6 @@ Summary: Vim command - Cheatsheet
     <pre><kbd>ESC</kbd> + "a4yy </pre>
     <pre><kbd>ESC</kbd> + "ap </pre>
 
+* Using <kbd>F5</kbd> to automatically remove all trailing spaces in code
+
+    <pre>nnoremap &lt;F5&gt; :let _s=@/&lt;Bar&gt;:%s/\s\+$//e&lt;Bar&gt;:let @/=_s&lt;Bar&gt;&lt;CR&gt;</pre>
