@@ -7,7 +7,7 @@ My Articles on different topics in Open Source for You magazine
 
 * May 2016
 
-    - Introduction to OpenShift
+    - [Introduction to OpenShift](http://opensourceforu.com/2016/06/an-introduction-to-openshift/)
 
 * March 2016
 
