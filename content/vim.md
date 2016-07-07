@@ -54,3 +54,7 @@ Summary: Vim command - Cheatsheet
 * Using <kbd>F5</kbd> to automatically remove all trailing spaces in code
 
     <pre>nnoremap &lt;F5&gt; :let _s=@/&lt;Bar&gt;:%s/\s\+$//e&lt;Bar&gt;:let @/=_s&lt;Bar&gt;&lt;CR&gt;</pre>
+
+* Go to specific character on current line. If you want to go to first occurance of '=' then
+
+    <pre><kbd>ESC</kbd>f + = </pre>
