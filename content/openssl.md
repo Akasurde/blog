@@ -1,6 +1,6 @@
 Title: OpenSSL commands
 Date: 2016-12-01 12:03
-Modified: 2016-12-01 12:03
+Modified: 2016-17-01 12:03
 Category: certificates
 Tags: openssl, cheatsheet
 Slug: openssl-cheat-sheet
@@ -67,3 +67,7 @@ Summary: OpenSSL command info
 * Extract Certificates from PKCS#12 container
 
      <pre>$ openssl pkcs12 -in yourP12File.pfx -clcerts -nokeys -out publicCert.pem </pre>
+
+* Verifying that a Certificate is issued by a CA
+
+     <pre>$  openssl verify -verbose -CAfile cacert.pem  server.crt</pre>
