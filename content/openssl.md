@@ -1,6 +1,6 @@
 Title: OpenSSL commands
 Date: 2016-12-01 12:03
-Modified: 2016-17-01 12:03
+Modified: 2016-12-01 12:03
 Category: certificates
 Tags: openssl, cheatsheet
 Slug: openssl-cheat-sheet
