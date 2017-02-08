@@ -13,4 +13,5 @@ Good reads about different topics
 
     - [Self defence against large snakes - A python tutorial](http://nibrahim.net.in/self-defence/)
     
+    - [Full Stack Development in Python](https://www.fullstackpython.com/table-of-contents.html)
 
