@@ -58,3 +58,7 @@ Summary: Vim command - Cheatsheet
 * Go to specific character on current line. If you want to go to first occurance of '=' then
 
     <pre><kbd>ESC</kbd>f + = </pre>
+
+* Delete from current line till specified line number
+
+    <pre><kbd>ESC</kbd>:.,<line_number>d</pre>
