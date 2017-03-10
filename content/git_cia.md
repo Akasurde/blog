@@ -1,6 +1,6 @@
 Title: Git - CIA cheatsheet
-Date: 2017-11-03 12:03
-Modified: 2016-11-03 12:03
+Date: 2017-03-11 12:03
+Modified: 2016-03-11 12:03
 Category: git
 Tags: git
 Slug: git-cheat-sheet-cia-edition
@@ -8,6 +8,7 @@ Authors: Abhijeet Kasurde
 Summary: Git - CIA Cheatsheet
 
 Shamelessly taken from - https://wikileaks.org/ciav7p1/cms/page_1179773.html
+
 * List Aliases
 
     <pre>$ git config --get-regexp 'alias.*' | colrm 1 6 </pre>
