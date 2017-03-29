@@ -15,3 +15,6 @@ Good reads about different topics
     
     - [Full Stack Development in Python](https://www.fullstackpython.com/table-of-contents.html)
 
+* Ansible
+
+    - [An Ansible Tutorial](https://serversforhackers.com/an-ansible-tutorial)
