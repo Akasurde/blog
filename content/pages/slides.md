@@ -3,6 +3,10 @@ Date: 2017-02-12 16:04:49
 Modified: 2017-02-12 16:04:49
 Slug: slidedecks
 
+* [Introduction to Ansible](https://www.slideshare.net/godfatherabhi/introduction-to-ansible-75544501)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wZkiTUDofcyDYC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/godfatherabhi/introduction-to-ansible-75544501" title="Introduction to ansible" target="_blank">Introduction to ansible</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/godfatherabhi">Abhijeet Kasurde</a></strong> </div>
+
 * [Introduction to Python-Requests](https://www.slideshare.net/godfatherabhi/introduction-to-python-requests)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/EZXRx6uBIgaJ1G" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/godfatherabhi/introduction-to-python-requests" title="Introduction to python requests" target="_blank">Introduction to python requests</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/godfatherabhi">Abhijeet Kasurde</a></strong> </div>
