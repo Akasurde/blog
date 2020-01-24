@@ -11,7 +11,7 @@ THEME="./Flex"
 PATH = 'content'
 TIMEZONE = 'Asia/Kolkata'
 DEFAULT_LANG = u'en'
-COPYRIGHT_YEAR = 2016
+COPYRIGHT_YEAR = 2020
 DEFAULT_PAGINATION = 10
 
 # Feed generation is usually not desired when developing

@@ -8,7 +8,7 @@ PELICANOPTS=
 
 BASEDIR=$(pwd)
 INPUTDIR=$BASEDIR/content
-OUTPUTDIR=$BASEDIR/output
+OUTPUTDIR=$BASEDIR/../blog_output
 CONFFILE=$BASEDIR/pelicanconf.py
 
 ###
@@ -86,7 +86,7 @@ function start_up(){
 #  MAIN
 ###
 [[ ($# -eq 0) || ($# -gt 2) ]] && usage
-port=''
+port='9000'
 [[ $# -eq 2 ]] && port=$2
 
 if [[ $1 == "stop" ]]; then
