@@ -12,8 +12,6 @@ I recently attended [FOSDEM 2020](https://fosdem.org/2020) in Brussels, Belgium 
 
 This all started with a long weekend of conference and beer club hoping. I arrived in Brussels a night before the conference and went to the huge beer party organized in [Delirium Cafe](https://www.deliriumvillage.com/bar/delirium-cafe/) by FOSDEM organizers.
 
-![Beer]({filename}/images/fosdem/beer_1.jpg)
-
 It was fun and surprising to attend a beer party organized by an event organizer. The room was full of geeks passionate about open source and community enjoying more than 2000 different beers under one roof.
 
 
@@ -72,7 +70,7 @@ Next session was [Ansible Collaboration within your Organization](https://cfp.cf
 
 Next talk was very interesting where [Eric Kellar](https://cfp.cfgmgmtcamp.be/2020/speaker/HMXQ7K/) talked about their use case using [Global Linux client with Ansible and Foreman](https://cfp.cfgmgmtcamp.be/2020/talk/QNSP9S/). Speaker told us about changing minds about how automation can bring value to our organisation.
 
-During the dinner party organized by cfgmgmtcamp organizer, we got chance to sit across people from different companies like [cfengine](https://cfengine.com/) and [Puppet](https://puppet.com/). We discussed about various topics like YAML's pros and cons, architecture details about cfengine and puppet, Puppet Bolt vs Ansible, Agentless vs Agentful architecture.
+During the dinner party organized by cfgmgmtcamp organizer, we got chance to sit across the table with people from different companies like [cfengine](https://cfengine.com/) and [Puppet](https://puppet.com/). We discussed about various topics like YAML's pros and cons, architecture details about cfengine and puppet, Puppet Bolt vs Ansible, Agentless vs Agentful architecture.
 It was fun and engaging discussion which shows true spirit of Open source software where people discuss anything and everything.
 
 Second day started with keynote by [Michael Ducy](https://cfp.cfgmgmtcamp.be/2020/speaker/9BEFDC/) where speaker explained about [Automating Security Response with Serverless](https://cfp.cfgmgmtcamp.be/2020/talk/YD8UGG/) with various open source tools. It gave us a fresh prespective about how to leverage Serverless based automation in their operational roles.
